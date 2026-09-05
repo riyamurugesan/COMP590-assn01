@@ -9,6 +9,8 @@ My game is similar to a hidden-object game (but the objects aren't hidden yet!).
 <img width="4032" height="3024" alt="IMG_1838" src="https://github.com/user-attachments/assets/d663d3ef-d68f-43fe-996a-6d81c7de790d" />
 
 
+I'm sorry that the text is small! I was struggling to capture a photo of the screen without it tilting. The first text box says "Score: 0," and the second text box says "Tasks: Find a yellow cube, etc.".
+
 I was inspired by the old Windows game, "Samantha Swift and the Hidden Roses of Athena". When I was younger, I played the game a bunch on my mom's computer. I thought it would be cool to transform that archaeology-inspired hidden-object game into 3D! This simple cube game taught me the basics of ray-tracing, which would be extremely helpful in making a more complex hidden-object game like Samantha Swift.
 
 I believe my game is a game because it is a problem-solving activity (players must find certain cubes to receive points) and players willfully choose to play the game. My game does not create internal value (yet), but I could definitely add another feature that allows players to use their points to buy accessories/tools that help them find other items faster!

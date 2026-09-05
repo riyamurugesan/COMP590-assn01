@@ -2,7 +2,7 @@
 
 ## Riya Murugesan
 
-I added my C# files to this repository. The only file relevant to my final game is Main.cs. I included the other C# files to demonstrate that I completed the other parts of the assignment, as well. Additionally, I realized that iOS users must have an Apple Developer account to receive a .ipa file, so I was unable to include it.
+I added my project source code (excluding unnecessary files) to this repository. The C# file relevant to my final game is Main.cs. I included the other C# files to demonstrate that I completed the other parts of the assignment, as well (I made all three of the scenes - cube, target, and personal game - on the same Unity project). Additionally, I realized that iOS users must have an Apple Developer account to receive a .ipa file, so I was unable to include it.
 
 My game is similar to a hidden-object game. Players need to find and click on certain objects that are listed out to them. I made different color cubes and added a text box (titled "Tasks") that lists the 3 cubes that players need to click on (the yellow, purple, and orange cubes). Each of these cubes is worth 10 points (the score gets updated in another text box when the cube is clicked).
 
